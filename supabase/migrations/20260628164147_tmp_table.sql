@@ -5,3 +5,4 @@ CREATE TABLE "tmp_table" (
 
 
 drop table tmp_table;
+
