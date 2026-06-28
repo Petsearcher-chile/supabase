@@ -1,3 +1,6 @@
+ALTER TABLE "pet_perdida" ADD COLUMN "id_address" uuid;
+
+
 CREATE TABLE "mapbox_addresses" (
                                     "id" uuid PRIMARY KEY DEFAULT (uuid_generate_v4()),
                                     "full_address" text NOT NULL,
