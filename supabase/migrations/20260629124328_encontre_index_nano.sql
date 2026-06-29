@@ -1,0 +1,1 @@
+CREATE INDEX ON "pet_encontre_fotos" ("id_file_nano");
