@@ -1,0 +1,1 @@
+CREATE INDEX ON "pet_perdida" ("estado");
